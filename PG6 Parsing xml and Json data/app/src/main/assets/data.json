@@ -1,0 +1,10 @@
+{
+  "city":
+  {
+    "cityname" : "Mysuru",
+    "latitude" : "12.297",
+    "longitude" : "76.639",
+    "temperature" : "22",
+    "humidity" : "99%"
+  }
+}
